@@ -1,0 +1,7 @@
+{
+  "source": "Bank of Canada / OSFI",
+  "qualifying_rate_floor_pct": 5.25,
+  "qualifying_rate_buffer_pct": 2.00,
+  "rule": "Higher of: contract rate + 2.00% OR 5.25% floor",
+  "last_updated": "2026-03-25"
+}

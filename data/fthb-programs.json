@@ -1,0 +1,21 @@
+{
+  "programs": [
+    {
+      "name": "CELIAPP / FHSA",
+      "source": "Canada Revenue Agency",
+      "annual_limit": 8000,
+      "lifetime_limit": 40000,
+      "carryforward": true,
+      "tax_deductible": true
+    },
+    {
+      "name": "HBP / RAP",
+      "source": "Canada Revenue Agency",
+      "max_withdrawal": 60000,
+      "per_person": true,
+      "couple_max": 120000,
+      "repayment_period_years": 15,
+      "updated": "April 2024"
+    }
+  ]
+}

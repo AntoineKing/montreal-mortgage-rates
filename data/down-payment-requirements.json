@@ -1,0 +1,13 @@
+{
+  "source": "CMHC / OSFI",
+  "rules": [
+    {"purchase_price_max": 500000, "min_down_pct": 5},
+    {"purchase_price_min": 500001, "purchase_price_max": 1499999, "rule": "5% on first $500K + 10% on remainder"},
+    {"purchase_price_min": 1500000, "min_down_pct": 20, "note": "Not eligible for CMHC insurance"}
+  ],
+  "fthb_30yr_amort": {
+    "eligible": true,
+    "conditions": "First-time buyer AND new build only (Dec 15, 2024 rule)",
+    "max_amort_years": 30
+  }
+}

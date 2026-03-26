@@ -1,0 +1,16 @@
+{
+  "source": "Government of Quebec - Droits de mutation immobilière",
+  "source_url": "https://www.revenuquebec.ca/en/citizens/real-estate/transfer-duties/",
+  "brackets": [
+    {"from": 0, "to": 58900, "rate_pct": 0.5},
+    {"from": 58901, "to": 294600, "rate_pct": 1.0},
+    {"from": 294601, "to": 500000, "rate_pct": 1.5},
+    {"from": 500001, "to": 1000000, "rate_pct": 2.0},
+    {"from": 1000001, "to": null, "rate_pct": 2.5}
+  ],
+  "montreal_surtax": {
+    "threshold": 500000,
+    "additional_rate_pct": 0.5,
+    "note": "Montreal adds 0.5% on amounts exceeding $500,000"
+  }
+}

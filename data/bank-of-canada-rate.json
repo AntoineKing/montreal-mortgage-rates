@@ -1,0 +1,8 @@
+{
+  "source": "Bank of Canada",
+  "source_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+  "overnight_rate_pct": 2.75,
+  "prime_rate_typical_pct": 4.95,
+  "last_announcement": "2026-03-12",
+  "next_announcement": "2026-04-16"
+}

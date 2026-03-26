@@ -1,0 +1,12 @@
+{
+  "source": "CMHC - Canada Mortgage and Housing Corporation",
+  "source_url": "https://www.cmhc-schl.gc.ca/consumers/home-buying/mortgage-loan-insurance-for-consumers/mortgage-loan-insurance-premium-amounts",
+  "effective_date": "2024-12-15",
+  "note": "Premium as percentage of mortgage amount. Applied when down payment < 20%.",
+  "max_purchase_price": 1500000,
+  "tiers": [
+    {"down_payment_min_pct": 5, "down_payment_max_pct": 9.99, "premium_pct": 4.00},
+    {"down_payment_min_pct": 10, "down_payment_max_pct": 14.99, "premium_pct": 3.10},
+    {"down_payment_min_pct": 15, "down_payment_max_pct": 19.99, "premium_pct": 2.80}
+  ]
+}
